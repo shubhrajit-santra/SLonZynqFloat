@@ -1,4 +1,3 @@
-
 ## Description
 
 --> This repository contains all the source codes and a block diagram of the architecture for the Zynq implementation of the multi-armed bandit (MAB) subset-learning algorithm.
